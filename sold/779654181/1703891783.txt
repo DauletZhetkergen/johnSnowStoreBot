@@ -1,0 +1,25 @@
+ + ----------- Personal Information ----------+
+    | Full name: Paolo Guglielmotti
+    | Telephone: 07906 382121
+    | Date of birth: 24/07/1969
+    | Address: 25 sandall close , London , W51JE
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 446291
+    | Card Bank: HALIFAX
+    | Card Type: debit
+    | Cardholder Name: Paolo Guglielmotti 
+    | Card Number: 4462915959161318
+    | Card Exp: 09/26
+    | CVV: 355
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 86.5.57.218 (brnt-07-b2-v4wan-167215-cust473.vm7.cable.virginm.net)
+    | Location: Southall, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15
+    | Browser: Safari
+    | Os: MacOS
+    

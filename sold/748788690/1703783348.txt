@@ -1,0 +1,28 @@
+
+
+
+    + ----------- Personal Information ----------+
+    | Full name: John Edwards
+    | Telephone: 01959 564063
+    | Date of birth: 11/02/33
+    | Address: Grosvenor House, Westerham, TN16 1TJ
+
+    + ----------- Card Information ------------+
+    | Card BIN: 518791
+    | Card Bank: Lloyds Bank Plc
+    | Card Type: credit
+    | Cardholder Name: MR JOHN H EDWARDS
+    | Card Number: 5187913509087894
+    | Card Exp: 10/26
+    | CVV: 610
+    | Sort Code:
+    | Account Number:
+    +------------ Victim Information -------------+
+
+    --- PC Details ----
+    | Submitted by: 195.39.192.71 (195.39.192.71)
+    | Location: , , United Kingdom
+    | UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+    | Browser: Chrome
+    | Os: WinNT
+

@@ -1,0 +1,30 @@
+    ---- @JamesSainttPatrick -------
+    -- page by @fuckkrypto | @fuckkrypto  ---
+
+
+
+    + ----------- Personal Information ----------+
+    | Full name: Joyce Wilson
+    | Telephone: 01513 457116
+    | Date of birth: 16/05/1952
+    | Address: 84 Sandy Road,  Seaforth, Liverpool , L21 1AF
+
+    + ----------- Card Information ------------+
+    | Card BIN: 537317
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: debit
+    | Cardholder Name: Mr Anthony Foster
+    | Card Number: 5373170389737692
+    | Card Exp: 07/27
+    | CVV: 463
+    | Sort Code:
+    | Account Number:
+    +------------ Victim Information -------------+
+
+    --- PC Details ----
+    | Submitted by: 2.99.130.59 (host-2-99-130-59.as13285.net)
+    | Location: Preston, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+    | Browser: Chrome
+    | Os: Android
+

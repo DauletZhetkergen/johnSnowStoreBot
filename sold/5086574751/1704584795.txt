@@ -1,0 +1,27 @@
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Farry Farrokhnia
+    | Telephone: 07387 404146
+    | Date of birth: 30/08/1989
+    | Address: 35a Hamilton Avenue LS7 4EQ , Leeds, Ls7 4eq
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 537410
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: 
+    | Cardholder Name: F Farrokhnia
+    | Card Number: 5374100113775790
+    | Card Exp: 07/26
+    | CVV: 242
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 90.246.16.233 (90.246.16.233)
+    | Location: Batley, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+    | Browser: Chrome
+    | Os: Android
+    

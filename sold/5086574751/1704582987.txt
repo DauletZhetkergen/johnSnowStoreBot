@@ -1,0 +1,27 @@
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Teresa Davies
+    | Telephone: 44
+    | Date of birth: 12/01/62
+    | Address: 82 Queens Road, Felixstowe, Ip117pe
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 537410
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: 
+    | Cardholder Name: Mail4td@gmx.com 
+    | Card Number: 5374100117750062
+    | Card Exp: 06/26
+    | CVV: 635
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 82.132.232.120 (82-132-232-120.dab.02.net)
+    | Location: Harringay, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+    | Browser: Chrome
+    | Os: Android
+    

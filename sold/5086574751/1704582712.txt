@@ -1,0 +1,27 @@
+  
+    
+    + ----------- Personal Information ----------+
+    | Full name: _Barun Guha
+    | Telephone: 07989 380125
+    | Date of birth: 13/11/1943
+    | Address: 4 Chiltern Yard Rise, High Wycombe , Hp108bf
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 519958
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: credit
+    | Cardholder Name: Barun Guha
+    | Card Number: 5199581009104083
+    | Card Exp: 09/27
+    | CVV: 662
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a00:23c7:97b3:5b01:8df9:a141:8268:dfde (2a00:23c7:97b3:5b01:8df9:a141:8268:dfde)
+    | Location: High Wycombe, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1
+    | Browser: Safari
+    | Os: iPhone
+    

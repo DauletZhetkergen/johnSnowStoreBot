@@ -1,0 +1,27 @@
+ 
+    
+    + ----------- Personal Information ----------+
+    | Full name: Trevor Smith
+    | Telephone: 07929 339806
+    | Date of birth: 09/06/1963
+    | Address: Langs Mill, Cardinham, Bodmin, Pl304en
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 532865
+    | Card Bank: BOE BANK, LTD.
+    | Card Type: credit
+    | Cardholder Name: Trevor Smith
+    | Card Number: 5328650502753508
+    | Card Exp: 04/26
+    | CVV: 249
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a00:23c4:e64f:d601:757:405f:4b05:43de (2a00:23c4:e64f:d601:757:405f:4b05:43de)
+    | Location: Bodmin, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Linux; Android 14; SAMSUNG SM-S916B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/23.0 Chrome/115.0.0.0 Mobile Safari/537.36
+    | Browser: Chrome
+    | Os: Android
+    

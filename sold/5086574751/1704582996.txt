@@ -1,0 +1,27 @@
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Dr Magdi Selim
+    | Telephone: 07958 601230
+    | Date of birth: 23/07/1963
+    | Address: 4B Cliff Lane, Brierley, Barnsley, S72 9HR
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 475733
+    | Card Bank: ROYAL BANK OF SCOTLAND
+    | Card Type: debit
+    | Cardholder Name: Magdi Selim
+    | Card Number: 4757333906287836
+    | Card Exp: 07/27
+    | CVV: 681
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a02:c7c:c071:2f00:a19f:dd1c:b77e:bc86 (2a02:c7c:c071:2f00:a19f:dd1c:b77e:bc86)
+    | Location: Sheffield, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+    | Browser: Chrome
+    | Os: WinNT
+    

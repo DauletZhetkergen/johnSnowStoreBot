@@ -1,0 +1,27 @@
+ 
+    
+    + ----------- Personal Information ----------+
+    | Full name: Sarah Chick
+    | Telephone: 07786 430958
+    | Date of birth: 13/06/1973
+    | Address: 2 Westcliff Terrace Mansions, Ramsgate, CT11 0JD
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 492915
+    | Card Bank: BARCLAYS BANK PLC
+    | Card Type: credit
+    | Cardholder Name: s chick
+    | Card Number: 4929153298743003
+    | Card Exp: 12/26
+    | CVV: 364
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a02:c7c:dee6:aa00:c173:443e:b289:2f4a (2a02:c7c:dee6:aa00:c173:443e:b289:2f4a)
+    | Location: Canterbury, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+    | Browser: Chrome
+    | Os: WinNT
+    

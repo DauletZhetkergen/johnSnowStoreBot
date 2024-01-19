@@ -1,0 +1,28 @@
+
+
+
+    + ----------- Personal Information ----------+
+    | Full name: Emma Clark
+    | Telephone: 07976 717202
+    | Date of birth: 12/10/71
+    | Address: Glyn Marton, Portesbery Road, Camberley, GU15 3TD
+
+    + ----------- Card Information ------------+
+    | Card BIN: 454313
+    | Card Bank: Nationwide Building Society
+    | Card Type: debit
+    | Cardholder Name: Mrs E Clark
+    | Card Number: 4543134276722801
+    | Card Exp: 02/27
+    | CVV: 056
+    | Sort Code:
+    | Account Number:
+    +------------ Victim Information -------------+
+
+    --- PC Details ----
+    | Submitted by: 145.40.134.87 (uk-134-87.toob.co.uk)
+    | Location: Southampton, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1
+    | Browser: Safari
+    | Os: iPhone
+

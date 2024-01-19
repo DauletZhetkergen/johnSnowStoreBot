@@ -1,0 +1,482 @@
+ + ----------- Personal Information ----------+
+    | Full name: WAYNE COLLINS
+    | Telephone: 07815 157080
+    | Date of birth: 11/11/1964
+    | Address: 5 GREEN LANE, DARLEY DALE, DE42GJ
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 543484
+    | Card Bank: ROYAL BANK OF SCOTLAND PLC
+    | Card Type: credit
+    | Cardholder Name: Wayne Collins
+    | Card Number: 5434849001476543
+    | Card Exp: 10/24
+    | CVV: 009
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 31.94.39.42 (31.94.39.42)
+    | Location: Lambeth, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+    | Browser: Chrome
+    | Os: WinNT
+    
+Received:
+  
+    
+    + ----------- Personal Information ----------+
+    | Full name: _Barun Guha
+    | Telephone: 07989 380125
+    | Date of birth: 13/11/1943
+    | Address: 4 Chiltern Yard Rise, High Wycombe , Hp108bf
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 519958
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: credit
+    | Cardholder Name: Barun Guha
+    | Card Number: 5199581009104083
+    | Card Exp: 09/27
+    | CVV: 662
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a00:23c7:97b3:5b01:8df9:a141:8268:dfde (2a00:23c7:97b3:5b01:8df9:a141:8268:dfde)
+    | Location: High Wycombe, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1
+    | Browser: Safari
+    | Os: iPhone
+    
+Received:
+
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Timothy Barker
+    | Telephone: 07768 152908
+    | Date of birth: 08/04/1940
+    | Address: Falkland House THe Green, Long Melford, CO109DT
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 537308
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: debit
+    | Cardholder Name: T G Barker
+    | Card Number: 5373084678864580
+    | Card Exp: 09/26
+    | CVV: 702
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a00:23c6:6a09:4201:f12e:ed10:c0ae:823f (2a00:23c6:6a09:4201:f12e:ed10:c0ae:823f)
+    | Location: Sudbury, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+    | Browser: Safari
+    | Os: iPhone
+    
+Received:
+ 
+    
+    + ----------- Personal Information ----------+
+    | Full name: Susan Heath-Caldwell
+    | Telephone: 07540 237040
+    | Date of birth: 29/07/56
+    | Address: 1 Moorcroft Close, Winchester, SO21 3SL
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 489396
+    | Card Bank: NATIONWIDE
+    | Card Type: credit
+    | Cardholder Name: S G Heath-Caldwell
+    | Card Number: 4893960126446837
+    | Card Exp: 03/27
+    | CVV: 693
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 164.39.204.56 (164.39.204.56)
+    | Location: Bedford, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+    | Browser: Chrome
+    | Os: MacOS
+    
+Received:
+ 
+    
+    + ----------- Personal Information ----------+
+    | Full name: Sarah Chick
+    | Telephone: 07786 430958
+    | Date of birth: 13/06/1973
+    | Address: 2 Westcliff Terrace Mansions, Ramsgate, CT11 0JD
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 492915
+    | Card Bank: BARCLAYS BANK PLC
+    | Card Type: credit
+    | Cardholder Name: s chick
+    | Card Number: 4929153298743003
+    | Card Exp: 12/26
+    | CVV: 364
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a02:c7c:dee6:aa00:c173:443e:b289:2f4a (2a02:c7c:dee6:aa00:c173:443e:b289:2f4a)
+    | Location: Canterbury, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+    | Browser: Chrome
+    | Os: WinNT
+    
+Received:
+  
+    
+    + ----------- Personal Information ----------+
+    | Full name: Stewart John George
+    | Telephone: 07770 933719
+    | Date of birth: 11/06/1946
+    | Address: Willand, High Street, Lane End, HP143JF
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 475144
+    | Card Bank: ROYAL BANK OF SCOTLAND
+    | Card Type: debit
+    | Cardholder Name: Stewart George
+    | Card Number: 4751441353745101
+    | Card Exp: 06/28
+    | CVV: 504
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 80.43.177.245 (host-80-43-177-245.as13285.net)
+    | Location: Ashford, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+    | Browser: Firefox
+    | Os: WinNT
+    
+Received:
+  
+    
+    + ----------- Personal Information ----------+
+    | Full name: sarah chappatte
+    | Telephone: 07768 827386
+    | Date of birth: 20/04/1957
+    | Address: 101 Blenheim Crescent , London , W112EQ
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 545100
+    | Card Bank: NATIONAL WESTMINSTER BANK PLC
+    | Card Type: credit
+    | Cardholder Name: sarah chappatte
+    | Card Number: 5451009101385262
+    | Card Exp: 08/26
+    | CVV: 20
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 176.26.61.113 (b01a3d71.bb.sky.com)
+    | Location: Chelsea, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1
+    | Browser: Safari
+    | Os: iPhone
+    
+Received:
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Teresa Davies
+    | Telephone: 44
+    | Date of birth: 12/01/62
+    | Address: 82 Queens Road, Felixstowe, Ip117pe
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 537410
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: 
+    | Cardholder Name: Mail4td@gmx.com 
+    | Card Number: 5374100117750062
+    | Card Exp: 06/26
+    | CVV: 635
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 82.132.232.120 (82-132-232-120.dab.02.net)
+    | Location: Harringay, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+    | Browser: Chrome
+    | Os: Android
+    
+Received:
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Dr Magdi Selim
+    | Telephone: 07958 601230
+    | Date of birth: 23/07/1963
+    | Address: 4B Cliff Lane, Brierley, Barnsley, S72 9HR
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 475733
+    | Card Bank: ROYAL BANK OF SCOTLAND
+    | Card Type: debit
+    | Cardholder Name: Magdi Selim
+    | Card Number: 4757333906287836
+    | Card Exp: 07/27
+    | CVV: 681
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a02:c7c:c071:2f00:a19f:dd1c:b77e:bc86 (2a02:c7c:c071:2f00:a19f:dd1c:b77e:bc86)
+    | Location: Sheffield, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+    | Browser: Chrome
+    | Os: WinNT
+    
+Received:
+
+	
+	
+
+
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Keith holder
+    | Telephone: 07940 245047
+    | Date of birth: 30/10/1936
+    | Address: 2 Holder Close , Chatham , Me58lw 
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 489396
+    | Card Bank: NATIONWIDE
+    | Card Type: credit
+    | Cardholder Name: Keith A Holder 
+    | Card Number: 4893960084728028
+    | Card Exp: 11/28
+    | CVV: 813
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 82.11.65.72 (cpc89512-gill19-2-0-cust327.20-1.cable.virginm.net)
+    | Location: Gillingham, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15
+    | Browser: Safari
+    | Os: MacOS
+    
+Received:
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Kirsty Mackenzie
+    | Telephone: 07788 446446
+    | Date of birth: 12/8
+    | Address: 10 Maldon Road , London , W3 6SU
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 528682
+    | Card Bank: BANK OF SCOTLAND PLC
+    | Card Type: credit
+    | Cardholder Name: Kirsty MacKenzie 
+    | Card Number: 5286827200327245
+    | Card Exp: 02/26
+    | CVV: 764
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 82.132.212.71 (82-132-212-71.dab.02.net)
+    | Location: Hammersmith, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1
+    | Browser: Safari
+    | Os: iPhone
+    
+Received:
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Derek Cross
+    | Telephone: 01892 723775
+    | Date of birth: 13/08/1940
+    | Address: Cornerways, Brenchley, Tonbridge, TN12 7PB
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 518791
+    | Card Bank: LLOYDS TSB BANK PLC
+    | Card Type: credit
+    | Cardholder Name: Derek Cross
+    | Card Number: 5187914000979852
+    | Card Exp: 05/27
+    | CVV: 718
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a02:8012:ad45:0:a0fd:7641:ff4f:2ded (2a02:8012:ad45:0:a0fd:7641:ff4f:2ded)
+    | Location: , , United Kingdom
+    | UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15
+    | Browser: Safari
+    | Os: MacOS
+    
+Received:
+ 
+    
+    + ----------- Personal Information ----------+
+    | Full name: Alice
+    | Telephone: 07826 538873
+    | Date of birth: 14/12/1983
+    | Address: 16 chetwynd road, London, Nw5 1by
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 518791
+    | Card Bank: LLOYDS TSB BANK PLC
+    | Card Type: credit
+    | Cardholder Name: Alice Stein
+    | Card Number: 5187913508775507
+    | Card Exp: 10/27
+    | CVV: 234
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 45.133.127.215 (45.133.127.215.g.network)
+    | Location: City of Westminster, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1
+    | Browser: Safari
+    | Os: iPhone
+    
+Received:
+ 
+    
+    + ----------- Personal Information ----------+
+    | Full name: Susan Venner
+    | Telephone: 07970 964094
+    | Date of birth: 08/10/1959
+    | Address: 3 Manygates, London, SW12 9JS
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 557483
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: debit
+    | Cardholder Name: MS S E VENNER
+    | Card Number: 5574833753948008
+    | Card Exp: 08/27
+    | CVV: 317
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 2a00:23c6:1eb4:c701:f145:4b18:9a8e:5874 (2a00:23c6:1eb4:c701:f145:4b18:9a8e:5874)
+    | Location: Tooting, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+    | Browser: Chrome
+    | Os: MacOS
+    
+Received:
+ 
+    
+    + ----------- Personal Information ----------+
+    | Full name: Priscilla Jane Hardwick Sobey
+    | Telephone: 07989 018238
+    | Date of birth: 28/04/42
+    | Address: Redbank  Bungalow, Herefordshire, HR8 2JL
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 449353
+    | Card Bank: NATIONWIDE BUILDING SOCIETY
+    | Card Type: credit
+    | Cardholder Name: Priscilla J Sobey
+    | Card Number: 4493538112784314
+    | Card Exp: 04/28
+    | CVV: 957
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 185.216.9.141 (host185-216-9-141.loopscorpio.net)
+    | Location: Warrington, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/23.0 Chrome/115.0.0.0 Mobile Safari/537.36
+    | Browser: Chrome
+    | Os: Android
+    
+Received:
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Farry Farrokhnia
+    | Telephone: 07387 404146
+    | Date of birth: 30/08/1989
+    | Address: 35a Hamilton Avenue LS7 4EQ , Leeds, Ls7 4eq
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 537410
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: 
+    | Cardholder Name: F Farrokhnia
+    | Card Number: 5374100113775790
+    | Card Exp: 07/26
+    | CVV: 242
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 90.246.16.233 (90.246.16.233)
+    | Location: Batley, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+    | Browser: Chrome
+    | Os: Android
+    
+Received:
+
+    
+    + ----------- Personal Information ----------+
+    | Full name: Linden Baxter
+    | Telephone: 07968 860915
+    | Date of birth: 09/02/1984
+    | Address: 17 Pond Close, Oxford, OX3 8JH
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 557483
+    | Card Bank: Unknown Bank For This BIN!
+    | Card Type: debit
+    | Cardholder Name: Dr L Baxter
+    | Card Number: 5574833731443114
+    | Card Exp: 03/25
+    | CVV: 828
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 86.7.192.165 (cpc1-aztw34-2-0-cust164.18-1.cable.virginm.net)
+    | Location: Bristol, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E148 Safari/604.1
+    | Browser: Safari
+    | Os: iPhone
+    
+Received:
+
+Received:

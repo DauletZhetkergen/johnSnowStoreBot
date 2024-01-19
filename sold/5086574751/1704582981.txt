@@ -1,0 +1,25 @@
+ + ----------- Personal Information ----------+
+    | Full name: WAYNE COLLINS
+    | Telephone: 07815 157080
+    | Date of birth: 11/11/1964
+    | Address: 5 GREEN LANE, DARLEY DALE, DE42GJ
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 543484
+    | Card Bank: ROYAL BANK OF SCOTLAND PLC
+    | Card Type: credit
+    | Cardholder Name: Wayne Collins
+    | Card Number: 5434849001476543
+    | Card Exp: 10/24
+    | CVV: 009
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 31.94.39.42 (31.94.39.42)
+    | Location: Lambeth, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+    | Browser: Chrome
+    | Os: WinNT
+    

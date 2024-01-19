@@ -1,0 +1,27 @@
+
+
+    + ----------- Personal Information ----------+
+    | Full name: Thea de Klein
+    | Telephone: 07904 209063
+    | Date of birth: 08/09/1982
+    | Address: Sigl-dy-gwt, Tregaron, SY256RE
+
+    + ----------- Card Information ------------+
+    | Card BIN: 498824
+    | Card Bank: The Co-Operative Bank Plc
+    | Card Type: debit
+    | Cardholder Name: mr laurie murton
+    | Card Number: 4988245717102163
+    | Card Exp: 09/26
+    | CVV: 839
+    | Sort Code:
+    | Account Number:
+    +------------ Victim Information -------------+
+
+    --- PC Details ----
+    | Submitted by: 31.94.2.229 (31.94.2.229)
+    | Location: Bristol, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    | Browser: Chrome
+    | Os: MacOS
+

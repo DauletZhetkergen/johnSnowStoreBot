@@ -1,0 +1,27 @@
+ 
+    
+    + ----------- Personal Information ----------+
+    | Full name: Priscilla Jane Hardwick Sobey
+    | Telephone: 07989 018238
+    | Date of birth: 28/04/42
+    | Address: Redbank  Bungalow, Herefordshire, HR8 2JL
+    
+    + ----------- Card Information ------------+
+    | Card BIN: 449353
+    | Card Bank: NATIONWIDE BUILDING SOCIETY
+    | Card Type: credit
+    | Cardholder Name: Priscilla J Sobey
+    | Card Number: 4493538112784314
+    | Card Exp: 04/28
+    | CVV: 957
+    | Sort Code: 
+    | Account Number: 
+    +------------ Victim Information -------------+
+    
+    --- PC Details ----
+    | Submitted by: 185.216.9.141 (host185-216-9-141.loopscorpio.net)
+    | Location: Warrington, England, United Kingdom
+    | UserAgent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/23.0 Chrome/115.0.0.0 Mobile Safari/537.36
+    | Browser: Chrome
+    | Os: Android
+    
